@@ -1,5 +1,5 @@
 === Sphinx Search & Related Omnibus ===
-Contributors: kasigi
+Contributors: kasigi,soreingold 
 Tags: search, sphinx, related, index
 Requires at least: 3.5
 Tested up to: 4.2.2
